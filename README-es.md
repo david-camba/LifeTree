@@ -59,7 +59,7 @@ Si tu objetivo es evaluar rápidamente la madurez, filosofía y soluciones técn
 >
 > Para hacerlo rápidamente, abre la consola de desarrollador de tu navegador (normalmente con la tecla `F12`), pega el siguiente comando y pulsa `Enter`:
 > ```javascript
-> document.querySelectorAll('details').forEach(d => d.open = true);
+> document.querySelectorAll('.markdown-body details').forEach(d => d.open = true);
 >```
 
 ---

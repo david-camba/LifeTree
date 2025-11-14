@@ -59,7 +59,7 @@ If your goal is to quickly evaluate the project's maturity, philosophy, and tech
 >
 > To do this quickly, open your browser's developer console (usually with the `F12` key), paste the following command, and press `Enter`:
 > ```javascript
-> document.querySelectorAll('details').forEach(d => d.open = true);
+> document.querySelectorAll('.markdown-body details').forEach(d => d.open = true);
 > ```
 
 ---
