@@ -12,10 +12,10 @@ El diseño ha evolucionado de forma iterativa. Cada nueva capacidad **se constru
 ### ⚔️ Battle-Tested: LifeTree en Acción
 
 Para demostrar su capacidad en un escenario real, LifeTree ha sido la base para construir un **configurador de pedidos multipaso con reglas de negocio**. Esta demo no es una pieza aislada; está integrada en una aplicación end-to-end que procesa lógica de negocio real en el servidor.
-[➡️ Ver la Demo en Vivo](https://david.camba.com/guest-access?redirect=LifeTree&lang=es)
+<a href="https://david.camba.com/guest-access?redirect=LifeTree&lang=es" target="_blank" rel="noopener noreferrer">➡️ Ver la Demo en Vivo</a>
 
-Si quieres explorar el código, puedes ejecutar la implementación de ejemplo (`/order-configurator-example`). La aplicación está servida por mi **framework backend N-Tier de desarrollo propio**. Necesitarás clonar el ecosistema completo desde su repositorio. 
-[➡️ Clonar el Ecosistema Completo](https://github.com/dCdV47/N-tier-architecture)
+Si quieres explorar el código, puedes ejecutar la implementación de ejemplo (`/order-configurator-example`). La aplicación está servida por mi **framework backend N-Tier de desarrollo propio**. Necesitarás clonar el ecosistema completo desde su repositorio.
+<a href="https://github.com/dCdV47/N-tier-architecture" target="_blank" rel="noopener noreferrer">➡️ Clonar el Ecosistema Completo</a>
 
 ### ⚡️ Capacidades Centrales de LifeTree
 
