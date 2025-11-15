@@ -12,10 +12,10 @@ The design has evolved iteratively. Each new capability **is built upon existing
 ### ⚔️ Battle-Tested: LifeTree in Action
 
 To demonstrate its capabilities in a real-world scenario, LifeTree has been the foundation for building a **multi-step order configurator with business rules**. This demo is not an isolated piece; it is integrated into an end-to-end application that processes real business logic on the server.
-<a href="https://david.camba.com/guest-access?redirect=LifeTree&lang=en" target="_blank" rel="noopener noreferrer">➡️ See the Live Demo</a>
+> <a href="https://david.camba.com/guest-access?redirect=LifeTree&lang=en" target="_blank" rel="noopener noreferrer">➡️ See the Live Demo</a> *(Deployed with Docker on Google Cloud)*
 
 If you want to explore the code, you can run the example implementation (`/order-configurator-example`). The application is served by my **custom-built N-Tier backend framework**. You will need to clone the entire ecosystem from its repository.
-<a href="https://github.com/david-camba/N-tier-architecture" target="_blank" rel="noopener noreferrer">➡️ Clone the Full Ecosystem</a>
+> <a href="https://github.com/david-camba/N-tier-architecture" target="_blank" rel="noopener noreferrer">➡️ Clone the FullStack Ecosystem</a>
 
 ### ⚡️ Core Capabilities of LifeTree
 
