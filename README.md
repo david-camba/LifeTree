@@ -15,7 +15,7 @@ To demonstrate its capabilities in a real-world scenario, LifeTree has been the 
 <a href="https://david.camba.com/guest-access?redirect=LifeTree&lang=en" target="_blank" rel="noopener noreferrer">➡️ See the Live Demo</a>
 
 If you want to explore the code, you can run the example implementation (`/order-configurator-example`). The application is served by my **custom-built N-Tier backend framework**. You will need to clone the entire ecosystem from its repository.
-<a href="https://github.com/dCdV47/N-tier-architecture" target="_blank" rel="noopener noreferrer">➡️ Clone the Full Ecosystem</a>
+<a href="https://github.com/david-camba/N-tier-architecture" target="_blank" rel="noopener noreferrer">➡️ Clone the Full Ecosystem</a>
 
 ### ⚡️ Core Capabilities of LifeTree
 
